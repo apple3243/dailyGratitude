@@ -104,3 +104,9 @@ button{
     background-color:rgb(255,255,255);
     text-align: center;
 }
+
+.redo svg{
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
