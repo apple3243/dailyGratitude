@@ -51,6 +51,10 @@ button{
     outline: none !important;
 }
 
+.btn-start,.btn-submit{
+    background-color: #fff;
+}
+
 .btn-submit{
     border: 0;
     margin-top: 2rem;
